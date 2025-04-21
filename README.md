@@ -9,7 +9,7 @@ Repositorio utilizado para la gestión de código, control de versiones y docume
 
 #### 🌐 Desarrollo Web
 - **Lenguajes:** HTML, CSS, JavaScript, PHP
-- **Librerías/Frameworks:** Bootstrap, Notifyx, SweetAlert
+- **Librerías/Frameworks:** Bootstrap, jQuery, Notifyx, SweetAlert
 - **Extras:** Consumo de APIs REST, manejo de formularios y validaciones
 
 #### 📱 Desarrollo Móvil (Android)
@@ -49,6 +49,9 @@ Repositorio utilizado para la gestión de código, control de versiones y docume
 <p align="center">
   <a href="https://getbootstrap.com/" target="_blank">
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
+  </a>
+  <a href="https://jquery.com/" target="_blank">
+    <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD.svg?logo=jquery&logoColor=white">
   </a>
   <a href="https://sweetalert2.github.io/" target="_blank">
     <img alt="SweetAlert2" src="https://img.shields.io/badge/SweetAlert2-FF5F6D.svg?logo=sweetalert&logoColor=white">
