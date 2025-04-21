@@ -1,16 +1,33 @@
-## Hi there 👋
+# Repositorio de desarrollo Front-End – Área TI  
+**Caliza Cementos Inka**
 
-<!--
-**TI-PRACTICANTE-1/TI-PRACTICANTE-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Repositorio utilizado para la gestión de código, control de versiones y documentación técnica de los desarrollos **Front-End** realizados en el área de TI.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧩 Tecnologías utilizadas
+
+#### 🌐 Desarrollo Web
+- **Lenguajes:** HTML, CSS, JavaScript, PHP
+- **Librerías/Frameworks:** Bootstrap, Notifyx, SweetAlert
+- **Extras:** Consumo de APIs REST, manejo de formularios y validaciones
+
+#### 📱 Desarrollo Móvil (Android)
+- **IDE:** Android Studio
+- **Lenguaje:** Kotlin
+- **Frameworks y herramientas:**
+  - Jetpack Compose
+  - Retrofit
+  - OkHttp3
+  - WebSocket
+  - Material Icons Extended (v1.4.0)
+  - JetBrains (Kotlin Plugins)
+
+---
+
+### ⚙️ Uso del perfil
+Repositorio exclusivo del área TI para centralizar el código fuente, pruebas de interfaz, documentación y evolución de componentes Front-End.
+
+---
+
+**Actualizado por:** _Practicante TI – Caliza Cementos Inka_
