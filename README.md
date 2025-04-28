@@ -65,7 +65,6 @@
   <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC.svg?logo=visual-studio-code&logoColor=white"></a>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white"></a>
   <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
-  <a href="#"><img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-4000BF.svg?logo=insomnia&logoColor=white"></a>
 </p>
 
 <!--
