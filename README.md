@@ -66,7 +66,6 @@
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white"></a>
   <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
   <a href="#"><img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-4000BF.svg?logo=insomnia&logoColor=white"></a>
-  <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC.svg?logo=trello&logoColor=white"></a>
 </p>
 
 <!--
